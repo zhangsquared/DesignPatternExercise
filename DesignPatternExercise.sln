@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationQuestpond", "ConsoleApplicationQuestpond\ConsoleApplicationQuestpond.csproj", "{B60811F5-4049-4FFE-AD49-1EF8652F753C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistorPattern", "VistorPattern\VistorPattern.csproj", "{76F661D0-1632-43F8-89BF-A429509322F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{B60811F5-4049-4FFE-AD49-1EF8652F753C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60811F5-4049-4FFE-AD49-1EF8652F753C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60811F5-4049-4FFE-AD49-1EF8652F753C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F661D0-1632-43F8-89BF-A429509322F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F661D0-1632-43F8-89BF-A429509322F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F661D0-1632-43F8-89BF-A429509322F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F661D0-1632-43F8-89BF-A429509322F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A260A716-AD91-4460-8ADC-33E41AEACB63}
 	EndGlobalSection
 EndGlobal
